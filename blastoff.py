@@ -1,0 +1,51 @@
+#Charlie Hudson
+#Peroid 6
+import time
+print("                           *     .--.")
+print("                                / /  `")
+print("               +               | |")
+print("                      '         \ \__,")
+print("                  *          +   '--'  *")
+print("                      +   /\\")
+print("        +              .'    '.   *")
+print("                *      /======\      +")
+print("                      ;:.  _   ;")
+print("                      |:. (_)  |")
+print("                      |:.  _   |")
+print("            +         |:. (_)  |          *")
+print("                      ;:.      ;")
+print("                    .' \:.    / `.")
+print("                   / .-'':._.'`-. \\")
+print("                   |/    /||\    \|")
+print("                 _..--\"\"\"````\"\"\"--.._")
+print("           _.-'``                    ``'-._")
+print("         -'                                '-")
+print("Counting down...")
+count1 = 10
+while count1 < 11 and count1 != 0:
+	print(str(count1))
+	time.sleep(0.5)
+	count1 = count1 - 1
+
+print("Blast off!")
+
+print("                      +   /\\")
+print("         +              .'  '.   *")
+print("                *      /======\      +")
+print("                      ;:.  _   ;")
+print("                      |:. (_)  |")
+print("                      |:.  _   |")
+print("            +         |:. (_)  |          *")
+print("                      ;:.      ;")
+print("                    .' \:.    / `.")
+print("                   / .-'':._.'`-. \\")
+print("                   |/    /||\    \|")
+print("                         ||||")
+print("                         ||||")
+print("                         ||||")
+print("                         ||||")
+print("                         ||||")
+print("                 _..--\"\"\"````\"\"\"--.._")
+print("           _.-'``                    ``'-._")
+print("         -'                                '-")
+
